@@ -1,0 +1,21 @@
+movie_id,title,genre,rating,release_year,description
+m1,Inception,Sci-Fi,8.8,2010,A thief enters dreams to steal secrets and plant ideas.
+m2,Interstellar,Sci-Fi,8.6,2014,A team explores space to find a new home for mankind.
+m3,The Dark Knight,Action,9.0,2008,Batman faces chaos unleashed by the Joker.
+m4,Avatar,Adventure,7.8,2009,A marine bonds with an alien tribe on Pandora.
+m5,The Matrix,Sci-Fi,8.7,1999,A hacker learns the shocking truth about reality.
+m6,Titanic,Romance,7.9,1997,A tragic love story aboard the doomed Titanic.
+m7,Avengers: Endgame,Action,8.4,2019,The Avengers unite for the final battle.
+m8,Spider-Man: No Way Home,Action,8.2,2021,Peter Parker faces the multiverse.
+m9,Joker,Drama,8.5,2019,A failed comedian turns to madness.
+m10,Fight Club,Thriller,8.8,1999,A man forms an underground fight club.
+m11,The Shawshank Redemption,Drama,9.3,1994,A banker finds hope in prison.
+m12,The Godfather,Crime,9.2,1972,The rise of the Corleone crime family.
+m13,Forrest Gump,Drama,8.8,1994,A simple man influences historic events.
+m14,The Lion King,Animation,8.5,1994,Simba must embrace his destiny as king.
+m15,Doctor Strange,Fantasy,7.5,2016,A surgeon learns mystic arts to fight evil.
+m16,Black Panther,Action,7.8,2018,The king of Wakanda faces a deadly rival.
+m17,Iron Man,Action,8.1,2008,A billionaire builds a high-tech suit to save the world.
+m18,The Avengers,Action,8.0,2012,Earth's mightiest heroes join forces.
+m19,Guardians of the Galaxy,Sci-Fi,8.1,2014,Misfits unite to protect a powerful orb.
+m20,The Flash,Action,6.8,2023,Barry Allen alters the past with consequences.

@@ -1,0 +1,6 @@
+This folder contains simulated model files for the Smart Recommender System.
+
+cf_model.pkl — Dummy Collaborative Filtering model file.
+cbf_similarity.npy — Dummy similarity matrix for content-based recommendations.
+
+In real projects, these files are generated using libraries like scikit-learn, surprise, or TensorFlow.
